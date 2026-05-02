@@ -10,11 +10,13 @@ Understand customer purchasing patterns
 Identify high-value customers
 Analyze product preferences and spending behavior
 Generate actionable insights for business growth
+
 🛠️ Tools & Technologies
 Python (Pandas, NumPy, Matplotlib, Seaborn) – Data cleaning & EDA
 SQL – Data querying and transformation
 Power BI – Interactive dashboard visualization
 Jupyter Notebook – Analysis workflow
+
 📂 Project Files
 customer_shopping_behavior.csv → Raw dataset
 Customer_Shopping_Behavior_Analysis.ipynb → Data analysis notebook
@@ -23,16 +25,19 @@ customer_behavior_dashboard.pbix → Power BI dashboard
 Customer-Shopping-Behavior-Analysis.pptx → Project presentation
 Business Problem Document.pdf → Problem statement
 Customer Shopping Behavior Analysis.pdf → Final report
+
 📊 Key Insights
 Identified customer segments based on spending behavior
 Found trends in product categories and purchase frequency
 Highlighted patterns that can improve targeted marketing
 Provided data-driven recommendations for business decisions
+
 📈 Dashboard Features
 Customer segmentation analysis
 Revenue trends visualization
 Product category performance
 Interactive filters for better insights
+
 🚀 How to Run
 Clone the repository
 Open the Jupyter Notebook file
